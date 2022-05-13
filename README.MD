@@ -1,0 +1,4 @@
+- A simple scraper, free to use. 
+- It was done very quickly, so I just copied everything that was in the cookies
+- I took companies from csv files, u can check the format of those ones
+- don't forget to use ur user agent and install requests
